@@ -1,0 +1,3 @@
+[submodule "new_module"]
+	path = new_module
+	url = git@github.com:kvnptl/ws23_git_session.git
